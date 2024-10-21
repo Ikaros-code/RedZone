@@ -4,7 +4,7 @@ local rewardAmount = 250 -- Amount of money to give each player in the zone
 local checkInterval = 60000 -- Check every 60 seconds (60000 ms)
 
 
--- Feel free to ignore all below, just edit above^^^ - Ikaros
+-- Feel free to ignore all below, just edit above^^^
 
 QBCore = exports['qb-core']:GetCoreObject()
 
